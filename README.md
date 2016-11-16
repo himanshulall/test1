@@ -1,3 +1,3 @@
 # test1
 testdata
-hi my name is himanshu and thi is the test data
+hi my name is himanshu and this is the test data
